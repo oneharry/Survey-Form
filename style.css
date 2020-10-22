@@ -1,0 +1,30 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    background-image: url("survey.jpeg");
+    background-attachment: fixed;
+    color: white;
+}
+
+#main {
+    opacity: 0.9;
+    max-width: 70%;
+}
+form {
+    background-color: rgb(45, 49, 94);
+}
+
+form > div {
+    margin-top: 13px;
+}
+.form-group {
+    margin: 12px;
+}
+
+@media (max-width: 765px) {
+    #main {
+        max-width: 100%;
+        
+    }
+}
+
