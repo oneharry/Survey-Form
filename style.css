@@ -1,7 +1,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.5rem;
-    background-image: url("survey.jpeg");
+    background-image: url("/udme/survey.jpeg");
     background-attachment: fixed;
     color: white;
 }
